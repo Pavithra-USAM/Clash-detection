@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavithra\\source\\repos\\dimensionvoid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B57C6A9-B4E2-41E2-8DB3-FC2EDB7B39E3}|dimensionvoid\\dimensionvoid.csproj|c:\\users\\pavithra\\source\\repos\\dimensionvoid\\dimensionvoid\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B57C6A9-B4E2-41E2-8DB3-FC2EDB7B39E3}|dimensionvoid\\dimensionvoid.csproj|solutionrelative:dimensionvoid\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|dimensionvoid||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B57C6A9-B4E2-41E2-8DB3-FC2EDB7B39E3}|dimensionvoid\\dimensionvoid.csproj|C:\\Users\\Pavithra\\source\\repos\\dimensionvoid\\dimensionvoid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B57C6A9-B4E2-41E2-8DB3-FC2EDB7B39E3}|dimensionvoid\\dimensionvoid.csproj|solutionrelative:dimensionvoid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B57C6A9-B4E2-41E2-8DB3-FC2EDB7B39E3}|dimensionvoid\\dimensionvoid.csproj|C:\\Users\\Pavithra\\source\\repos\\dimensionvoid\\dimensionvoid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B57C6A9-B4E2-41E2-8DB3-FC2EDB7B39E3}|dimensionvoid\\dimensionvoid.csproj|solutionrelative:dimensionvoid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B57C6A9-B4E2-41E2-8DB3-FC2EDB7B39E3}|dimensionvoid\\dimensionvoid.csproj|c:\\users\\pavithra\\source\\repos\\dimensionvoid\\dimensionvoid\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 315,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Pavithra\\source\\repos\\dimensionvoid\\dimensionvoid\\Form1.cs",
+              "RelativeDocumentMoniker": "dimensionvoid\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pavithra\\source\\repos\\dimensionvoid\\dimensionvoid\\Form1.cs",
+              "RelativeToolTip": "dimensionvoid\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:53:18.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pavithra\\source\\repos\\dimensionvoid\\dimensionvoid\\Form1.cs",
+              "RelativeDocumentMoniker": "dimensionvoid\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pavithra\\source\\repos\\dimensionvoid\\dimensionvoid\\Form1.cs [Design]",
+              "RelativeToolTip": "dimensionvoid\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:52:02.885Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dimensionvoid",
+              "DocumentMoniker": "C:\\Users\\Pavithra\\source\\repos\\dimensionvoid\\dimensionvoid\\dimensionvoid.csproj",
+              "RelativeDocumentMoniker": "dimensionvoid\\dimensionvoid.csproj",
+              "ToolTip": "C:\\Users\\Pavithra\\source\\repos\\dimensionvoid\\dimensionvoid\\dimensionvoid.csproj",
+              "RelativeToolTip": "dimensionvoid\\dimensionvoid.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-05T11:22:48.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Pavithra\\source\\repos\\dimensionvoid\\dimensionvoid\\Class1.cs",
+              "RelativeDocumentMoniker": "dimensionvoid\\Class1.cs",
+              "ToolTip": "C:\\Users\\Pavithra\\source\\repos\\dimensionvoid\\dimensionvoid\\Class1.cs",
+              "RelativeToolTip": "dimensionvoid\\Class1.cs",
+              "ViewState": "AQIAAPoBAAAAAAAAAAAmwCgCAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:21:22.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 85,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
